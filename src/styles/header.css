@@ -1,0 +1,13 @@
+
+.header {
+  display: flex;
+  justify-content: left;
+}
+
+.logo {
+  margin-right: 8px;
+}
+
+.header_links{
+  margin-right: 8px;
+}
