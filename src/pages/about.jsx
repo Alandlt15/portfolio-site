@@ -1,13 +1,12 @@
-// react imports
-import { useState } from 'react'
+//react imports
 
 //component imports
 import Header from '../components/header'
 
 //style import
-import '../styles/home.css'
 
-function Home() {
+
+function About() {
 
   return (
     <>
@@ -16,4 +15,4 @@ function Home() {
   )
 }
 
-export default Home
+export default About
