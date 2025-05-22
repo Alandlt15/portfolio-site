@@ -1,0 +1,29 @@
+
+.card_one {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
+  /* display: flex;
+  flex-direction: row;
+  justify-content: space-evenly; */
+  height: 100px;
+  /* border: 1px solid white; */
+}
+.inner_card_one {
+  margin-top: 100px;
+  width: 100%;
+  max-width: 800px;
+  height: 675px;
+  background-color: #2b2b2b;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transition: ease-out 1.5s;
+}
+.inner_card_one:hover {
+  background-color: #353535;
+  transition: ease-out 1.5s;
+}
