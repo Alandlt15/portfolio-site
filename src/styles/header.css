@@ -1,0 +1,25 @@
+
+.header {
+  display: flex;
+  justify-content: left;
+  padding-top: 8px;
+}
+
+.logo {
+  margin-right: 8px;
+}
+
+.header_links{
+  margin-right: 8px;
+}
+
+.header_button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.header_button:hover {
+  color: rgba(221, 221, 221, 0.87);
+}
